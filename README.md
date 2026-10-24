@@ -1,4 +1,6 @@
-<img width="1008" height="1344" alt="IMG_20261017_145313" src="https://github.com/user-attachments/assets/112f958c-0493-4fcf-af01-3f0f5793e5e5" />
+
+<img width="2117" height="743" alt="National Robot Controller Design Competition" src="https://github.com/user-attachments/assets/06862610-9a15-44ad-9ae4-bd53f2b2f07a" />
+
 
 
 
