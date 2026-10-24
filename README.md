@@ -1,4 +1,5 @@
-![Uploading IMG_20261017_145313.jpg…]()
+<img width="1008" height="1344" alt="IMG_20261017_145313" src="https://github.com/user-attachments/assets/112f958c-0493-4fcf-af01-3f0f5793e5e5" />
+
 
 
 
