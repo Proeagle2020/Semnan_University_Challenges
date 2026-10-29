@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="Future Robotics Academy Competition Banner" src="https://github.com/user-attachments/assets/35a63546-b612-428b-b105-6f41ab5fe8ac" />
+<img width="1774" height="887" alt="Futuristic Persian Robotics Competition Banner" src="https://github.com/user-attachments/assets/feda862e-d01e-4ad0-8145-c151e9587ac6" />
 
 
 
