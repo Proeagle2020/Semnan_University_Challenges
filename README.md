@@ -1,5 +1,6 @@
+<img width="1774" height="887" alt="Future Robotics Academy Competition Banner" src="https://github.com/user-attachments/assets/35a63546-b612-428b-b105-6f41ab5fe8ac" />
 
-<img width="2117" height="743" alt="National Robot Controller Design Competition" src="https://github.com/user-attachments/assets/06862610-9a15-44ad-9ae4-bd53f2b2f07a" />
+
 
 
 
